@@ -1,6 +1,6 @@
-# Macchiato Theme! ☕️+🥛
+# Latte Theme!
 
-Macchiato it's a [JSON Resume](https://jsonresume.org/) theme based on [Theme Boilerplate](https://github.com/jsonresume/jsonresume-theme-boilerplate) and [Caffeine Theme](https://github.com/kelyvin/jsonresume-theme-caffeine).
+Latte it's a [JSON Resume](https://jsonresume.org/) theme based on [Theme Boilerplate](https://github.com/jsonresume/jsonresume-theme-boilerplate) and [Caffeine Theme](https://github.com/kelyvin/jsonresume-theme-caffeine).
 
 ## Why?
 
@@ -34,12 +34,12 @@ I also wanted I simple environment, so I used the boilerplate provided by JSON R
 
 2. Download the theme from [npm](https://www.npmjs.com/)
   ```
-  npm install -g jsonresume-theme-macchiato
+  npm install -g jsonresume-theme-latte
   ```
 
 3. Use resume cli to build your resume
   ```
-  resume export resume.html --theme macchiato
+  resume export resume.html --theme latte
   ```
 
 ### PDF output
