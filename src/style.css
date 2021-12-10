@@ -87,6 +87,7 @@ h1 {
   font-weight: 700;
   font-size: 40px;
   letter-spacing: 1px;
+  text-transform: uppercase;
 }
 
 h2 {
@@ -268,9 +269,8 @@ ul.two-column li {
 
 .left-column {
   float: left;
-  width: 160px;
+  width: 180px;
   margin-right: 20px;
-  word-wrap: break-word;
 }
 
 .right-column {
@@ -387,6 +387,6 @@ ul.two-column li {
 .skill {
   margin: .15em;
   padding: .15em;
-  background: ghostwhite;
-  border-radius: 5px;
+  background: whitesmoke;
+  border-radius: 7px;
 }
